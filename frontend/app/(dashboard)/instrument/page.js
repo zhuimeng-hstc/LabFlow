@@ -1,6 +1,6 @@
 'use client';
 
-import InstrumentTable from './components/Instrument_Card';
+import InstrumentTable from '@/components/Instrument_Card';
 
 const MOCK_PERMISSIONS = ['view_list', 'create_asset', 'edit_info', 'apply_transfer']; // 管理员
 
